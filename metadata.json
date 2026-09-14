@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Dashboard",
+  "description": "Invoice generator and management dashboard with Google Sheets synchronization and automated PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
